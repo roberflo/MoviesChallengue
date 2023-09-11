@@ -22,7 +22,7 @@ Inside Persistence Project:
 - Postman Collection
 Click the following URL to have an invite to the workspace:
 
-https://app.getpostman.com/join-team?invite_code=cfbad2c1196ee732f4bcbaa00cc33c5f&target_code=831e6f251aa96a36dbcc8549a8463259
+[Postman Collection](https://app.getpostman.com/join-team?invite_code=f1a9b940eb1a097d9cde362fd9c48e81&target_code=d8bb00a593cd691c120de04346404a0e)
 
 
 
